@@ -15,7 +15,7 @@
 <body>
 <div align="center">
     <h2>Pokemon Manager</h2>
-    <form method="get" action="/search">
+    <form method="get" action="search">
         <input type="text" name="keyword"/> &nbsp;
         <input type="submit" value="Search"/>
     </form>

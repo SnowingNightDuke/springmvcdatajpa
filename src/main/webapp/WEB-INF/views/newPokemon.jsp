@@ -15,7 +15,7 @@
 <body>
 <div align="center">
     <h2>New Pokemon</h2>
-    <form:form action="/save" method="post" modelAttribute="pokemon">
+    <form:form action="save" method="post" modelAttribute="pokemon">
         <table border="0" cellpadding="5">
             <tr>
                 <td>Pokemon Name:</td>
